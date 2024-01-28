@@ -1,0 +1,6 @@
+package com.greenfoxacademy.backendapp.security;
+
+public class SecurityConstants {
+    public static final long JWT_EXPIRATION = 86400 * 1000;
+    public static final String JWT_SECRET = "Nnv197uEhRrID7vHuOBTZOp8PrBsv0Wx";
+}
